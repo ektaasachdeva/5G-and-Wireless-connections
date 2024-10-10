@@ -39,6 +39,7 @@ Diving into the world of wireless connections, understanding how they actually w
  Challenges and Future Work
 
  **5G Technology: The Three Pillars of Next Generation Wireless Communication**
+ 
 **Introduction**__
 5G is a giant step toward next-generation wireless communication by embracing the idea of a fifth generation of cellular network technology. In recent days, there is an ever-growing demand for fast, reliable, and versatile mobile networks. Thus, this repository will explore three key factors that make 5G capable and distinguish it from other generations.
 
