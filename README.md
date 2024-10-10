@@ -44,10 +44,14 @@ Diving into the world of wireless connections, understanding how they actually w
 
 **Historical Background**__
 This evolution began in the early 2010s, with the first 5G commercial deployments in 2019. It is built on top of all its predecessors:
-## 1G (1980s): Analog voice calls
-## 2G (1990s): Digital voice and text messaging
-## 3G (2000s): Mobile internet and video calling
-## 4G (2010s): High-speed mobile broadband
+ _1G (1980s): Analog voice calls_
+ 
+ _2G (1990s): Digital voice and text messaging_
+ 
+_ 3G (2000s): Mobile internet and video calling
+
+_4G (2010s): High-speed mobile broadband_
+
 5G goes beyond just enhancing 4G capabilities, but also introduces completely new use cases and industries. 
 
 **The Three Pillars of 5G**
