@@ -105,6 +105,8 @@ Industrial automation and robotics
 Mission Critical Services, such as public Safety 3GPP emergency response systems.
 mMTC provides connectivity for an almost unbelievable number of low-power, low-cost devices that make up the IoT ecosystem.
 
+**3. Massive machine type communication (Mmtc)**
+
 **Key Features:**
  
 Enable up to 1 million devices connected per square kilometer
