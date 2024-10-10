@@ -58,6 +58,8 @@ _4G (2010s): High-speed mobile broadband_
 1. Embb (Enhanced Mobile BroadBand)
 Embb focuses on enhanced data speed, capacity, and customer experience.
 
+![image alt](https://github.com/ektaasachdeva/5G-and-Wireless-connections/blob/baf9ff41a4e87511ae20dcb4c66de09ab3303f7c/Three-main-characteristics-of-5G-Technology.png)
+
 
 **Key Features:**
     
