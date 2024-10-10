@@ -3,25 +3,42 @@ Diving into the world of wireless connections, understanding how they actually w
 
 
 # Table of Contents
-# Introduction
-# Historical Background
-# The Three Pillars of 5G
-# **1. Enhanced Mobile Broadband (eMBB)**
-#            Key Features of eMBB
-#            Technologies Enabling eMBB
-#           Real-World Applications of eMBB
-# **2. Ultra-Reliable Low-Latency Communication (URLLC)**
-#            Key Features of URLLC
-#           Technologies Enabling URLLC
-#           Real-World Applications of URLLC
-# **3. Massive Machine-Type Communications (mMTC)**
-#             Key Features of mMTC
-#            Technologies Enabling mMTC
-#            Real-World Applications of mMTC
-# Synergy of the Three Pillars
-# Challenges and Future Work
+ Introduction
+ 
+ Historical Background
+ 
+ The Three Pillars of 5G
+ 
+ **1. Enhanced Mobile Broadband (eMBB)**
 
-# **5G Technology: The Three Pillars of Next Generation Wireless Communication**
+
+           Key Features of eMBB
+	   
+           Technologies Enabling eMBB
+	   
+           Real-World Applications of eMBB
+	   
+ **2. Ultra-Reliable Low-Latency Communication (URLLC)**
+          
+	    Key Features of URLLC
+         
+	   Technologies Enabling URLLC
+          
+	   Real-World Applications of URLLC
+
+ **3. Massive Machine-Type Communications (mMTC)**
+         
+	     Key Features of mMTC
+            
+	     Technologies Enabling mMTC
+           
+	     Real-World Applications of mMTC
+
+ Synergy of the Three Pillars
+
+ Challenges and Future Work
+
+ **5G Technology: The Three Pillars of Next Generation Wireless Communication**
 **Introduction**__
 5G is a giant step toward next-generation wireless communication by embracing the idea of a fifth generation of cellular network technology. In recent days, there is an ever-growing demand for fast, reliable, and versatile mobile networks. Thus, this repository will explore three key factors that make 5G capable and distinguish it from other generations.
 
